@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Fast Spiral
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 0}
+  Steps:
+  - Beat: 0
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.487
+    RY: 1.03
+    RS: 3
+  - Beat: 1
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.285
+    RY: 1.338
+    RS: 2
+  - Beat: 2
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.011
+    RY: 1.411
+    RS: 1
+  - Beat: 3
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.296
+    RY: 1.291
+    RS: 1
+  - Beat: 4
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.402
+    RY: 1.035
+    RS: 1
+  - Beat: 5
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.286
+    RY: 0.724
+    RS: 1
+  - Beat: 6
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.012
+    RY: 0.621
+    RS: 1
+  - Beat: 7
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.238
+    RY: 0.824
+    RS: 1
+  - Beat: 8
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.244
+    RY: 1.066
+    RS: 1
+  - Beat: 9
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.129
+    RY: 1.237
+    RS: 1
+  - Beat: 10
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.015
+    RY: 1.305
+    RS: 1
+  - Beat: 11
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.179
+    RY: 1.237
+    RS: 1
+  - Beat: 12
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.221
+    RY: 1.076
+    RS: 1

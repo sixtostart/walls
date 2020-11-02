@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 7400000, guid: ba11c8370ab8be1449b1cbd6e7f0c872, type: 2}
+  Steps:
+  - Beat: 0
+    LX: 0
+    LY: 0
+    RX: 0.005
+    RY: 1.494
+  - Beat: 2
+    LX: 0
+    LY: 0
+    RX: 0.545
+    RY: 1.079
+  - Beat: 4
+    LX: 0
+    LY: 0
+    RX: 0.009
+    RY: 0.673
+  - Beat: 6
+    LX: 0
+    LY: 0
+    RX: -0.493
+    RY: 1.117
+  - Beat: 8
+    LX: 0
+    LY: 0
+    RX: -0.002
+    RY: 1.527
+  - Beat: 10
+    LX: 0
+    LY: 0
+    RX: -0.002
+    RY: 1.135

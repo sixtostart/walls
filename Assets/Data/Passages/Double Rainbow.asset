@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Double Rainbow
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 0}
+  Steps:
+  - Beat: 0
+    LX: -0.829
+    LY: 1.115
+    LS: 1
+    RX: -0.694
+    RY: 0.917
+    RS: 1
+  - Beat: 1
+    LX: -0.69
+    LY: 1.298
+    LS: 1
+    RX: -0.578
+    RY: 1.053
+    RS: 1
+  - Beat: 2
+    LX: -0.506
+    LY: 1.43
+    LS: 1
+    RX: -0.435
+    RY: 1.181
+    RS: 1
+  - Beat: 3
+    LX: -0.319
+    LY: 1.531
+    LS: 1
+    RX: -0.266
+    RY: 1.278
+    RS: 1
+  - Beat: 4
+    LX: -0.109
+    LY: 1.585
+    LS: 1
+    RX: -0.097
+    RY: 1.329
+    RS: 1
+  - Beat: 5
+    LX: 0.097
+    LY: 1.593
+    LS: 1
+    RX: 0.086
+    RY: 1.34
+    RS: 1
+  - Beat: 6
+    LX: 0.289
+    LY: 1.527
+    LS: 1
+    RX: 0.247
+    RY: 1.274
+    RS: 1
+  - Beat: 7
+    LX: 0.472
+    LY: 1.391
+    LS: 1
+    RX: 0.394
+    RY: 1.181
+    RS: 1
+  - Beat: 8
+    LX: 0.641
+    LY: 1.255
+    LS: 1
+    RX: 0.517
+    RY: 1.056
+    RS: 1
+  - Beat: 9
+    LX: 0.784
+    LY: 1.091
+    LS: 1
+    RX: 0.615
+    RY: 0.936
+    RS: 1

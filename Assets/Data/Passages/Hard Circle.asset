@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Hard Circle
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 0}
+  Steps:
+  - Beat: 0
+    LX: -0.476
+    LY: 1.155
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 1
+    LX: -0.382
+    LY: 1.481
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 2
+    LX: 0
+    LY: 1.676
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 3
+    LX: 0.371
+    LY: 1.513
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 4
+    LX: 0.472
+    LY: 1.178
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 5
+    LX: 0.356
+    LY: 0.848
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 6
+    LX: -0.007
+    LY: 0.661
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0
+  - Beat: 7
+    LX: -0.337
+    LY: 0.801
+    LS: 1
+    RX: 0
+    RY: 0
+    RS: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Triangle
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 0}
+  Steps:
+  - Beat: 0
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.022
+    RY: 0.925
+    RS: 4
+  - Beat: 2
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: 0.431
+    RY: 1.458
+    RS: 3
+  - Beat: 4
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.495
+    RY: 1.411
+    RS: 2
+  - Beat: 6
+    LX: 0
+    LY: 0
+    LS: 0
+    RX: -0.086
+    RY: 0.995
+    RS: 1

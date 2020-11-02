@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a86d6b04a3b824f9c493e66f4cff16, type: 3}
+  m_Name: Morpheus
+  m_EditorClassIdentifier: 
+  RoutineName: Morpheus
+  Steps:
+  - Time: 2.05
+    Pose: {fileID: 11400000, guid: 71e91fefb854c0647b7ebcc4bc7c24b8, type: 2}
+  - Time: 3.05
+    Pose: {fileID: 11400000, guid: b074162319d21f34bbcacb009a3c315b, type: 2}
+  - Time: 4.05
+    Pose: {fileID: 11400000, guid: 357c03890ebc2174ea88896cbce12878, type: 2}
+  - Time: 5.05
+    Pose: {fileID: 11400000, guid: 1e1db4e0bb7224c4d9b12f5a49a9d2dd, type: 2}
+  - Time: 6.05
+    Pose: {fileID: 11400000, guid: b9d8517bc0f9cb14ab1f1e6f04ac058c, type: 2}
+  - Time: 7.05
+    Pose: {fileID: 11400000, guid: 8af5dc120ecab2c47bff88f44f268676, type: 2}
+  - Time: 8.05
+    Pose: {fileID: 11400000, guid: 606060b4ab0f6f3428655b5157c1ddea, type: 2}
+  - Time: 9.05
+    Pose: {fileID: 11400000, guid: 8af5dc120ecab2c47bff88f44f268676, type: 2}
+  - Time: 10.05
+    Pose: {fileID: 11400000, guid: b9d8517bc0f9cb14ab1f1e6f04ac058c, type: 2}
+  - Time: 11.05
+    Pose: {fileID: 11400000, guid: 32b1e58b91c9472429ea46a0e98de39f, type: 2}
+  - Time: 12.05
+    Pose: {fileID: 11400000, guid: 8af5dc120ecab2c47bff88f44f268676, type: 2}
+  - Time: 13.05
+    Pose: {fileID: 11400000, guid: 32b1e58b91c9472429ea46a0e98de39f, type: 2}
+  - Time: 14.05
+    Pose: {fileID: 11400000, guid: 357c03890ebc2174ea88896cbce12878, type: 2}
+  - Time: 15.05
+    Pose: {fileID: 11400000, guid: 1e1db4e0bb7224c4d9b12f5a49a9d2dd, type: 2}
+  - Time: 16.05
+    Pose: {fileID: 11400000, guid: b9d8517bc0f9cb14ab1f1e6f04ac058c, type: 2}
+  - Time: 17.05
+    Pose: {fileID: 11400000, guid: 32b1e58b91c9472429ea46a0e98de39f, type: 2}
+  - Time: 18.05
+    Pose: {fileID: 11400000, guid: 71e91fefb854c0647b7ebcc4bc7c24b8, type: 2}
+  - Time: 19.05
+    Pose: {fileID: 11400000, guid: b074162319d21f34bbcacb009a3c315b, type: 2}
+  - Time: 20.05
+    Pose: {fileID: 11400000, guid: 357c03890ebc2174ea88896cbce12878, type: 2}
+  - Time: 21.05
+    Pose: {fileID: 11400000, guid: 1e1db4e0bb7224c4d9b12f5a49a9d2dd, type: 2}
+  - Time: 22.05
+    Pose: {fileID: 11400000, guid: 8af5dc120ecab2c47bff88f44f268676, type: 2}
+  - Time: 23.05
+    Pose: {fileID: 11400000, guid: 8af5dc120ecab2c47bff88f44f268676, type: 2}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  - Time: 0
+    Pose: {fileID: 0}
+  Music: {fileID: 8300000, guid: a01ff5cbe38d9cc44a94e6381a1809da, type: 3}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Staggered Zig-zag
+  m_EditorClassIdentifier: 
+  Name: 
+  SourceClip: {fileID: 7400000, guid: 27d0f61c6c786c144a60850fbd1e98bb, type: 2}
+  Steps:
+  - Beat: 0
+    LX: -0.022
+    LY: 1.388
+    RX: 0
+    RY: 0
+  - Beat: 1
+    LX: 0
+    LY: 0
+    RX: 0.232
+    RY: 1.39
+  - Beat: 2
+    LX: -0.204
+    LY: 1.252
+    RX: 0
+    RY: 0
+  - Beat: 3
+    LX: 0
+    LY: 0
+    RX: 0.05
+    RY: 1.256
+  - Beat: 4
+    LX: 0.07
+    LY: 1.131
+    RX: 0
+    RY: 0
+  - Beat: 5
+    LX: 0
+    LY: 0
+    RX: 0.303
+    RY: 1.132
+  - Beat: 6
+    LX: -0.302
+    LY: 0.905
+    RX: 0
+    RY: 0
+  - Beat: 7
+    LX: 0
+    LY: 0
+    RX: -0.065
+    RY: 0.905
+  - Beat: 8
+    LX: 0.093
+    LY: 0.767
+    RX: 0
+    RY: 0
+  - Beat: 9
+    LX: 0
+    LY: 0
+    RX: 0.304
+    RY: 0.762
+  - Beat: 10
+    LX: -0.226
+    LY: 0.584
+    RX: 0
+    RY: 0
+  - Beat: 11
+    LX: 0
+    LY: 0
+    RX: 0.01
+    RY: 0.583

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd38fe4f008d9a44bd7ab6e036610af, type: 3}
+  m_Name: Four Corners
+  m_EditorClassIdentifier: 
+  Name: Four Corners
+  SourceClip: {fileID: 7400000, guid: d1c0c63bbe8180546adc8f9b3231f0fd, type: 2}
+  Steps:
+  - Beat: 0
+    LX: -0.633
+    LY: 1.39
+    RX: 0.126
+    RY: 1.39
+  - Beat: 2
+    LX: -0.136
+    LY: 1.39
+    RX: 0.587
+    RY: 1.39
+  - Beat: 4
+    LX: -0.136
+    LY: 0.905
+    RX: 0.587
+    RY: 0.905
+  - Beat: 6
+    LX: -0.633
+    LY: 0.905
+    RX: 0.09000003
+    RY: 0.905
